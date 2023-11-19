@@ -5,9 +5,9 @@ import {ProductsComponent} from "./products/products.component";
 import {NewProductComponent} from "./new-product/new-product.component";
 
 const routes: Routes = [
-  {path:"Home", component:HomeComponent},
-  {path:"Products", component:ProductsComponent},
-  {path:"New-Product", component:NewProductComponent},
+  {path:"home", component:HomeComponent},
+  {path:"products", component:ProductsComponent},
+  {path:"new-product", component:NewProductComponent},
 
 ];
 
